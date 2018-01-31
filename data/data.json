@@ -1,0 +1,14 @@
+[
+    {
+        "user":"zhangsan",
+        "pass":123456
+    },
+    {
+        "user":"yefei",
+        "pass":"1234"
+    },
+    {
+        "user":"qitao",
+        "pass":"5678"
+    }
+]
